@@ -50,3 +50,4 @@ if __name__ == "__main__":
     print("git diff : 수정사항 입력")
     print("git diff : 두번째 수정사항 입력")
     print("git diff : 마지막 수정사항 입력")
+    print("git diff : 진짜 마지막 으을 다시 수정해보자")

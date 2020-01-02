@@ -46,3 +46,5 @@ if __name__ == "__main__":
     print(day_name)
     if is_leap(year) == True:
         print("입력하신 %s은 윤년입니다" %year)
+
+    print("git diff : 수정사항 입력")
